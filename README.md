@@ -1,4 +1,15 @@
-# TensorFlow Lite BERT QA Android Example Application
+# TensorFlow Lite BERT QA Android Example Application Modified
+
+
+## EDIT!
+This is a modified version of the original BERT QA Android application.
+The app is modified according to the brief TensorFlow Lite project description at: https://docs.google.com/document/d/1TmiAqksKE9HqLll9y2j3vozToh7DnzlpP_EVJ2uGvVY/edit
+
+The app is modified to use the TF Lite-task libraries to utilize the BERT QA-model, instead of custom written ML-code.
+Please let me know if I have misunderstood the task.
+
+
+
 
 ## Overview
 
